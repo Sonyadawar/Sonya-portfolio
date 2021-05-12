@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Introduction from './Components/Introduction';
 
@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       
        <Introduction/>
+       
     </div>
   );
 }

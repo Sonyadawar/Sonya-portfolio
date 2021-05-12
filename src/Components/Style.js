@@ -1,28 +1,46 @@
- import react from 'react'
 
- const divMainStyle = {
+
+
+ export const divMainStyle = {
      background: `url("https://akshaysaini.in/img/clouds.png")`,
      backgroundSize: "contain",
      backgroundRepeat: "repeat",
-     paddingBottom: "70px",
-     paddingTop: "80 px",
-     fontSize: "35 px",
-
-     position: "relative",
-     fontFamily: "ProximaNovaT",
-     topMargin: "200 px",
-     width: "100%",
-
-
-
-
-
-     textAlign: "Center",
-     height: "550px"
-
+     height: "575px",
+     marginBlockStart: '1em',
+     
+     
  }
 
+ export const headingStyles= {
+     fontSize:"70px",
+     color:"white",
+     margin:"50px",
+     textAlign:"center",
+     fontFamily:"Sacramento ,'cursive'"
+ }
+
+ export const typewriterStyle={
+    fontSize:"45px",
+     color:"white",
+     margin:"50px",
+     textAlign:"center",
+     fontFamily:"Sacramento ,'cursive'"
+ }
+
+ 
+
+ 
+ 
+
+     
 
 
 
- export default divMainStyle;
+     
+     
+
+ 
+
+
+
+
