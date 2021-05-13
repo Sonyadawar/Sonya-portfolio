@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import {divMainStyle,headingStyles,typewriterStyle} from './Style'
+import {divMainStyle,headingStyles,typewriterStyle} from './StyleIntro'
 import plane from '../Assets/plane.gif'
 import Typewriter from 'typewriter-effect'
 
