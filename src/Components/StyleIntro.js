@@ -20,7 +20,7 @@
  }
 
  export const typewriterStyle={
-    fontSize:"45px",
+    fontSize:"40npm intallpx",
      color:"white",
      margin:"50px",
      textAlign:"center",
